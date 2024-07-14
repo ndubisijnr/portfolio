@@ -10,6 +10,9 @@ At Bizgem, I worked in a team of over 10 where I was responsible for managing an
 
 <p align="start">
   <img src="https://github.com/ndubisijnr/portfolio/blob/a93dfe739de7ff588aea9242140b768d5688b4b2/Screenshot%202024-07-13%20at%2014.49.33.png?raw=true" alt="Image 1" />
+  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-07-13%20at%2016.23.39.png?raw=true" alt="Image 1" />
+  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-07-13%20at%2017.15.04.png?raw=true" alt="Image 1" />
+  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-07-13%20at%2017.16.08.png?raw=true" alt="Image 1" />
 </p>
 
 <br><br>
@@ -30,11 +33,8 @@ I was also on the team that worked on the POS terminal where i developed the ter
 
 <span style="font-size:50px;">**Corebank Business Mobile App**</span> [React Native Cross Platform](https://play.google.com/store/apps/details?id=com.quickgem.coresteppos&hl=en_US)
 
-I worked in a team of over 10 where I was responsible for managing and maintaining the "corebank business portal" web app. A product that supports fund transfers and withdrawal. Implementation of virtual account, wallet management system and payment SDK.
-
-I was also on the team that worked on the POS terminal where i developed the terminal app using (javascript)vue-like syntax
+I worked in a team of over 3 where I was responsible for managing and maintaining the "corebank mobile" app. A product that supports fund transfers, withdrawal and billpayment.
 
 <p align="start">
-  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-07-13%20at%2016.22.13.png?raw=true" alt="Image 1" width="500" />
-  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-07-13%20at%2016.22.59.png?raw=true" alt="Image 1" width="500" />
+  <img src="https://raw.githubusercontent.com/ndubisijnr/portfolio/main/corebank.webp?raw=true" alt="Image 1" width="500" />
 </p>
