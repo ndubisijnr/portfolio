@@ -43,6 +43,7 @@ I worked in a team of over 3 where I was responsible for managing and maintainin
 
 
 <span style="font-size:50px;">**Tiqwa Tykkt Travel Portal**</span> [web](https://www.tykkt.com)
+<br><br>
 I worked in a team of 5, where we were able to build a full travel agent portal using javascript porpular framework vue.
 <p align="start">
   <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-08-14%20at%2023.22.09.png" alt="Image 1" />
