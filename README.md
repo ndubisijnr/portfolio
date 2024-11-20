@@ -34,7 +34,7 @@ I was also on the team that worked on the POS terminal where i developed the ter
 
 I worked in a team of 3 where I was responsible for managing and maintaining the "corebank business tms portal" web app. A product that supports managing and monitoring transactions made on the pos devices, also managing terminals for businesses.
 <p align="start">
-  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-07-13%20at%2016.22.13.png?raw=true" alt="Image 1" />
+  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot 2024-11-20 at 09.46.38.png?raw=true" alt="Image 1" />
   <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-07-13%20at%2016.22.59.png?raw=true" alt="Image 1" />
 </p>
 
