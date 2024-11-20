@@ -30,7 +30,15 @@ I was also on the team that worked on the POS terminal where i developed the ter
 
 <br><br>
 
+<span style="font-size:50px;">**Corebank Business Tms Portal**</span> [Web](https://www.corebanknigeria.com/business)
 
+I worked in a team of 3 where I was responsible for managing and maintaining the "corebank business tms portal" web app. A product that supports managing and monitoring transactions made on the pos devices, also managing terminals for businesses.
+<p align="start">
+  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-07-13%20at%2016.22.13.png?raw=true" alt="Image 1" />
+  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-07-13%20at%2016.22.59.png?raw=true" alt="Image 1" />
+</p>
+
+<br/><br/>
 <span style="font-size:50px;">**Corebank Business Mobile App**</span> [React Native Cross Platform](https://play.google.com/store/apps/details?id=com.quickgem.coresteppos&hl=en_US)
 
 I worked in a team of over 3 where I was responsible for managing and maintaining the "corebank mobile" app. A product that supports fund transfers, withdrawal and billpayment.
