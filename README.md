@@ -77,3 +77,47 @@ I worked in a team of 5, where we were able to build a full travel agent portal 
 
 </p>
 
+
+<span style="font-size:50px;">**Eccomerce (8figures)**</span> [web](https://www.tykkt.com)
+<br><br>
+I worked on this project using django-restframework for the backend and vue.js for the frontend.
+this project consist of two users, buyers and sellers(admin)
+
+<h3>Here is want sellers can do</h3>
+
+<ul>
+  <li>sellers(admin) can update, add and delete products and categories</li>
+    <li>sellers(admin) can update orders</li>
+</ul>
+
+
+<h3>Here is want buyers can do</h3>
+
+<ul>
+  <li>buyers can add to cart and create and track order</li>
+</ul>
+
+<p align="start">
+  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-08-14%20at%2023.22.09.png" alt="Image 1" />
+</p>
+
+<p align="start">
+    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-08-14%20at%2023.28.17.png" alt="Image 1" />
+
+</p>
+
+<p align="start">
+    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-08-14%20at%2023.29.16.png" alt="Image 1"  />
+
+</p>
+
+<p align="start">
+    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-08-14%20at%2023.29.59.png" alt="Image 1" />
+
+</p>
+
+<p align="start">
+    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202024-08-14%20at%2023.30.48.png" alt="Image 1" />
+
+</p>
+
