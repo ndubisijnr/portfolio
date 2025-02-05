@@ -98,16 +98,16 @@ this project consist of two users, buyers and sellers(admin)
 </ul>
 
 <p align="start">
-  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%2025-02-05%at%13.49.08.png" alt="Image 1" />
+  <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202025-02-05%20at%2013.46.51.png" alt="Image 1" />
 </p>
 
 <p align="start">
-    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%2025-02-05%at%13.46.51.png" alt="Image 1" />
+    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202025-02-05%20at%2013.47.12.png" alt="Image 1" />
 
 </p>
 
 <p align="start">
-    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%2025-02-05%at%13.47.12.png" alt="Image 1"  />
+    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202025-02-05%20at%2013.47.41.png" alt="Image 1"  />
 
 </p>
 
@@ -117,7 +117,17 @@ this project consist of two users, buyers and sellers(admin)
 </p>
 
 <p align="start">
-    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%2025-02-05%at%13.48.24.png" alt="Image 1" />
+    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202025-02-05%20at%2013.48.04.png" alt="Image 1" />
+
+</p>
+
+<p align="start">
+    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202025-02-05%20at%2013.48.28.png" alt="Image 1" />
+
+</p>
+
+<p align="start">
+    <img src="https://github.com/ndubisijnr/portfolio/blob/main/Screenshot%202025-02-05%20at%2013.49.08.png" alt="Image 1" />
 
 </p>
 
