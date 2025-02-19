@@ -4,7 +4,7 @@ I build frontend web and mobile applications for fin-techs and organisation offe
 
 <span style="font-size:50px;">**Projects:</span>
 
-<span style="font-size:50px;">**Bizgem**</span> [Web](https://bizgem.io)
+<span style="font-size:50px;">**Bizgem**</span>
 
 At Bizgem, I worked in a team of over 10 where I was responsible for managing and maintaining the "bizgem business portal" web app. A product that supports fund transfers and withdrawal. Implementation of virtual account, wallet management system and payment SDK.
 
@@ -30,7 +30,7 @@ I was also on the team that worked on the POS terminal where i developed the ter
 
 <br><br>
 
-<span style="font-size:50px;">**Corebank Business Tms Portal**</span> [Web](https://www.corebanknigeria.com/business)
+<span style="font-size:50px;">**Corebank Business Tms Portal**</span> [Web](https://tms.corestepbank.com/)
 
 I worked in a team of 3 where I was responsible for managing and maintaining the "corebank business tms portal" web app. A product that supports managing and monitoring transactions made on the pos devices, also managing terminals for businesses.
 <p align="start">
@@ -50,7 +50,7 @@ I worked in a team of over 3 where I was responsible for managing and maintainin
 <br><br />
 
 
-<span style="font-size:50px;">**Tiqwa Tykkt Travel Portal**</span> [web](https://www.tykkt.com)
+<span style="font-size:50px;">**Tiqwa Tykkt Travel Portal**</span>
 <br><br>
 I worked in a team of 5, where we were able to build a full travel agent portal using javascript porpular framework vue.
 <p align="start">
@@ -78,7 +78,7 @@ I worked in a team of 5, where we were able to build a full travel agent portal 
 </p>
 
 
-<span style="font-size:50px;">**Eccomerce (8figures)**</span> [web]#
+<span style="font-size:50px;">**Eccomerce (8figures)**</span>
 <br><br>
 I worked on this project using django-restframework for the backend and vue.js for the frontend.
 this project consist of two users, buyers and sellers(admin)
